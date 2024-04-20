@@ -29,3 +29,4 @@ CSRF_TRUSTED_ORIGINS = ['www.domain.net'] //For Django 3.2 and lower only "host"
 Some helpful links:
 https://stackoverflow.com/questions/38841109/csrf-validation-does-not-work-on-django-using-https
 
+https://learn.microsoft.com/en-us/training/modules/django-deployment/3-deployment-considerations
