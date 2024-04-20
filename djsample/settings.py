@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*', '.azurewebsites.net']
 
+CSRF_TRUSTED_ORIGINS = ['https://django-5.azurewebsites.net']
 
 # Application definition
 
